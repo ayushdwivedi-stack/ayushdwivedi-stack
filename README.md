@@ -9,7 +9,7 @@
 
 ---
 
-## 👤 About
+##  About
 
 *  BTech Student (India)
 *  AI/ML Engineer & Frontend Developer
@@ -18,7 +18,7 @@
 
 ---
 
-## ⚒️ Tech Stack
+##  Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,react,nextjs,ts,tailwind,docker,aws,gcp,git&theme=dark" />
@@ -26,7 +26,7 @@
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 ###  Wafer Defect Detection System
 
