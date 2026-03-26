@@ -1,31 +1,31 @@
 <div align="center">
 
-<!-- 🔥 GAME OF THRONES DRAGON BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=120&section=header&text=House%20Ayush&fontSize=30&fontColor=C0C0C0" width="48%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=020617&height=120&section=header&text=AI/ML%20Engineer&fontSize=28&fontColor=94A3B8" width="48%" />
 
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=020617&height=120&section=header&text=Frontend%20Developer&fontSize=28&fontColor=94A3B8" width="48%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=120&section=header&text=Forging%20AI%20like%20Valyrian%20Steel&fontSize=22&fontColor=C0C0C0" width="48%" />
 
 <br/>
 
-# ⚔️ House Ayush Dwivedi
+# ⚔️ Ayush Dwivedi
 
 ### AI/ML Engineer • Frontend Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=600&lines=Forging+AI+like+Valyrian+Steel;Building+clean+scalable+systems;Exploring+LLMs+and+GenAI" />
 
 </div>
 
 ---
 
-## 👤 About
+##  About
 
-* 🎓 BTech Student (India)
-* 🤖 AI/ML Engineer & Frontend Developer
-* 🔬 Building **Wafer Defect Detection System**
-* 🌱 Exploring **LLMs, Generative AI, System Design**
+* BTech Student (India)
+* AI/ML + Frontend Developer
+* Building **Wafer Defect Detection System**
+* Exploring **LLMs, Generative AI, System Design**
 
 ---
 
-## ⚒️ Tech Stack
+## Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,react,nextjs,ts,tailwind,docker,aws,gcp,git&theme=dark" />
@@ -33,15 +33,15 @@
 
 ---
 
-## 🚀 Projects
+## Projects
 
-### 🔬 Wafer Defect Detection System
+### Wafer Defect Detection
 
 * Deep learning-based defect classification
 * Grad-CAM visualization
 * Full-stack UI
 
-### 📸 AI Study Assistant
+### AI Study Assistant
 
 * OCR + Math solver
 * Works offline
@@ -49,7 +49,7 @@
 
 ---
 
-## 📊 GitHub Stats (Fixed ✅)
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ayushdwivedi-stack&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -70,10 +70,6 @@
 
 <div align="center">
 
-⚡ *Winter is Building.*
+⚡ Winter is Building.
 
 </div>
-
-<!-- FOOTER -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=020617,1e293b,0f172a&height=100&section=footer" width="100%" />
