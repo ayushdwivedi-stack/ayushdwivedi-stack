@@ -1,24 +1,23 @@
 <div align="center">
 
-<!-- MAIN BANNER -->
-<img src="<img width="735" height="1033" alt="image" src="https://github.com/user-attachments/assets/d88f7adc-f6e4-430a-a0e1-61642b88c881" />
-" width="100%" />
+# ⚔️ Ayush Dwivedi
 
-<br/>
-
-# ⚔️ House Ayush Dwivedi  
 ### AI/ML Engineer • Frontend Developer
+
+<!-- 🔥 TYPING ANIMATION -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+AI+Systems;Designing+Clean+Interfaces;Exploring+LLMs+and+GenAI;Always+Learning+New+Things" />
 
 </div>
 
 ---
 
-##  About
+## 👤 About
 
--  BTech Student (India)  
--  AI/ML Engineer & Frontend Developer  
--  Building **Wafer Defect Detection System**  
--  Exploring **LLMs, Generative AI, System Design**
+*  BTech Student (India)
+*  AI/ML Engineer & Frontend Developer
+*  Building **Wafer Defect Detection System**
+*  Exploring **LLMs, Generative AI, System Design**
 
 ---
 
@@ -30,21 +29,23 @@
 
 ---
 
-##  Projects
+## 🚀 Projects
 
 ### 🔬 Wafer Defect Detection System
-- Deep learning-based defect classification  
-- Grad-CAM visualization  
-- Full-stack UI  
+
+* Deep learning-based defect classification
+* Grad-CAM visualization
+* Full-stack UI
 
 ### 📸 AI Study Assistant
-- OCR + Math solver  
-- Works offline in browser  
-- Converts image → explanation  
+
+* OCR + Math solver
+* Works offline in browser
+* Converts image → explanation
 
 ---
 
-##  GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ayushdwivedi-stack&show_icons=true&theme=tokyonight&hide_border=true" />
