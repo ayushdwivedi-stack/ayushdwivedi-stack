@@ -1,15 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=120&section=header&text=House%20Ayush&fontSize=30&fontColor=C0C0C0" width="48%" />
-<img src="https://capsule-render.vercel.app/api?type=rect&color=020617&height=120&section=header&text=AI/ML%20Engineer&fontSize=28&fontColor=94A3B8" width="48%" />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=020617&height=120&section=header&text=Frontend%20Developer&fontSize=28&fontColor=94A3B8" width="48%" />
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=120&section=header&text=Forging%20AI%20like%20Valyrian%20Steel&fontSize=22&fontColor=C0C0C0" width="48%" />
+<img src="https://i.pinimg.com/originals/5b/7f/2f/5b7f2f2c5f4fbc6f4f5b7cbe3f8f4c8e.jpg" width="100%" />
 
 <br/>
 
-# ⚔️ Ayush Dwivedi
-
+# House Ayush Dwivedi
 ### AI/ML Engineer • Frontend Developer
 
 </div>
@@ -18,14 +13,14 @@
 
 ##  About
 
-* BTech Student (India)
-* AI/ML + Frontend Developer
-* Building **Wafer Defect Detection System**
-* Exploring **LLMs, Generative AI, System Design**
+-  BTech Student (India)  
+-  AI/ML Engineer & Frontend Developer  
+-  Building **Wafer Defect Detection System**  
+-  Exploring **LLMs, Generative AI, System Design**
 
 ---
 
-## Tech Stack
+##  Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,react,nextjs,ts,tailwind,docker,aws,gcp,git&theme=dark" />
@@ -33,23 +28,21 @@
 
 ---
 
-## Projects
+##  Projects
 
-### Wafer Defect Detection
+###  Wafer Defect Detection
+- Deep learning-based defect classification  
+- Grad-CAM visualization  
+- Full-stack UI  
 
-* Deep learning-based defect classification
-* Grad-CAM visualization
-* Full-stack UI
-
-### AI Study Assistant
-
-* OCR + Math solver
-* Works offline
-* Image → explanation
+###  AI Study Assistant
+- OCR + Math solver  
+- Works offline  
+- Image → explanation  
 
 ---
 
-## GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ayushdwivedi-stack&show_icons=true&theme=tokyonight&hide_border=true" />
