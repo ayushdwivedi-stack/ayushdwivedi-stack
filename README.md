@@ -1,8 +1,8 @@
 <div align="center">
 
-<!-- 🔥 GOT DRAGON GIF -->
+<!-- 🔥 GAME OF THRONES DRAGON BANNER -->
 
-<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100%" />
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100%" />
 
 <br/>
 
@@ -16,20 +16,12 @@
 
 ---
 
-## 👤 Profile
+## 👤 About
 
 * 🎓 BTech Student (India)
 * 🤖 AI/ML Engineer & Frontend Developer
 * 🔬 Building **Wafer Defect Detection System**
 * 🌱 Exploring **LLMs, Generative AI, System Design**
-
----
-
-## 💼 Experience / Focus
-
-* 🚀 Developing real-world AI solutions
-* ⚡ Building full-stack ML applications
-* 🧠 Strong interest in system design & scalable systems
 
 ---
 
@@ -41,36 +33,28 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 ### 🔬 Wafer Defect Detection System
 
 * Deep learning-based defect classification
-* Grad-CAM for explainability
-* Full-stack UI for visualization
+* Grad-CAM visualization
+* Full-stack UI
 
 ### 📸 AI Study Assistant
 
 * OCR + Math solver
-* Runs offline in browser
-* Converts image → explanation
+* Works offline
+* Image → explanation
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Fixed ✅)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushdwivedi-stack&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ayushdwivedi-stack&show_icons=true&theme=tokyonight&hide_border=true" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushdwivedi-stack&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## ⚡ Coding Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/dubeykayush_2004?theme=dark&font=Fira%20Code" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ayushdwivedi-stack&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
