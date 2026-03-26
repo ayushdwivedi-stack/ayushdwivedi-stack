@@ -1,72 +1,59 @@
 <div align="center">
 
-<!-- GAME OF THRONES STYLE BANNER -->
+<!-- 🔥 GOT DRAGON GIF -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a,1e293b,020617&height=220&section=header&text=House%20Ayush&fontSize=60&fontColor=38bdf8&animation=fadeIn&fontAlignY=40&desc=AI/ML%20Engineer%20⚔️%20Frontend%20Developer&descAlignY=65&descColor=7dd3fc" width="100%" />
+<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100%" />
 
 <br/>
 
-<!-- ANIMATED SWORD / FIRE VIBE -->
+# ⚔️ House Ayush Dwivedi
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=600&lines=Forging+AI+like+Valyrian+Steel;Building+interfaces+that+feel+alive;Exploring+LLMs+%7C+GenAI+%7C+Systems" />
+### AI/ML Engineer • Frontend Developer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=600&lines=Forging+AI+like+Valyrian+Steel;Building+clean+scalable+systems;Exploring+LLMs+and+GenAI" />
 
 </div>
 
 ---
 
-# ⚔️ Ayush Dwivedi
+## 👤 Profile
 
-## 🧑‍💻 The Developer
-
-```python
-class AyushDwivedi:
-    def __init__(self):
-        self.role = ["AI/ML Engineer", "Frontend Developer"]
-        self.location = "India"
-        self.current_focus = "Wafer Defect Detection System"
-        self.learning = ["LLMs", "Generative AI", "System Design"]
-
-    def weapons(self):
-        return {
-            "AI/ML": ["Python", "PyTorch", "TensorFlow", "FastAPI"],
-            "Frontend": ["React", "Next.js", "TypeScript", "Tailwind"],
-            "Cloud": ["AWS", "Docker", "GCP"]
-        }
-```
+* 🎓 BTech Student (India)
+* 🤖 AI/ML Engineer & Frontend Developer
+* 🔬 Building **Wafer Defect Detection System**
+* 🌱 Exploring **LLMs, Generative AI, System Design**
 
 ---
 
-## ⚒️ Weapons (Tech Stack)
+## 💼 Experience / Focus
+
+* 🚀 Developing real-world AI solutions
+* ⚡ Building full-stack ML applications
+* 🧠 Strong interest in system design & scalable systems
+
+---
+
+## ⚒️ Tech Stack
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,react,nextjs,ts,tailwind,docker,aws,gcp,git&theme=dark" />
-
 </p>
-
----
-
-## 🔥 Current Quest
-
-* ⚔️ Building **Wafer Defect Detection System (AI/ML)**
-* 🧠 Exploring **LLMs & Generative AI**
-* 🚀 Strengthening **DSA + System Design**
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔬 Wafer Defect Detection
+### 🔬 Wafer Defect Detection System
 
 * Deep learning-based defect classification
-* Grad-CAM visualization
-* Full-stack interface for analysis
+* Grad-CAM for explainability
+* Full-stack UI for visualization
 
 ### 📸 AI Study Assistant
 
-* OCR + Math Solver
+* OCR + Math solver
 * Runs offline in browser
-* Converts images → explanations
+* Converts image → explanation
 
 ---
 
@@ -76,6 +63,14 @@ class AyushDwivedi:
   <img src="https://github-readme-stats.vercel.app/api?username=ayushdwivedi-stack&show_icons=true&theme=tokyonight&hide_border=true" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushdwivedi-stack&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## ⚡ Coding Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/dubeykayush_2004?theme=dark&font=Fira%20Code" />
 </p>
 
 ---
