@@ -1,29 +1,20 @@
 <div align="center">
 
- 
+<img src="https://github.com/user-attachments/assets/2f96732b-e1bd-45f1-bdb3-571e5593c8f1" width="24%" />
+<img src="https://github.com/user-attachments/assets/6c48b6e5-a9c1-46e5-8534-1d2b2599541d" width="24%" />
+<img src="https://github.com/user-attachments/assets/c0243e20-9770-49c2-9ae8-0c86b9af3d1b" width="24%" />
+<img src="https://github.com/user-attachments/assets/e0c4fb3b-1450-4705-8b57-54c91ff96e99" width="24%" />
 
-<div align="center">
-  <img src="<img width="519" height="1024" alt="image" src="https://github.com/user-attachments/assets/2074bf4a-f047-4bc4-97d6-7f07a090a3f0" />
-" width="24%" />
-  <img src="<img width="736" height="1308" alt="image" src="https://github.com/user-attachments/assets/03bb0a38-a77a-459a-96f2-27af7584b66a" />
-" width="24%" />
-  <img src="<img width="666" height="761" alt="image" src="https://github.com/user-attachments/assets/84a9b039-8321-4a05-9d5c-f81b5a366e89" />
-" width="24%" />
-  <img src="<img width="600" height="840" alt="image" src="https://github.com/user-attachments/assets/e4f66e5b-970a-4462-ad98-9bf15724af22" />
-" width="24%" />
 </div>
-
-
-
 
 <br/>
 
-#  House Ayush Dwivedi
+<div align="center">
 
+# ⚔️ House Ayush Dwivedi  
 ### AI/ML Engineer • Frontend Developer
 
 </div>
-
 ---
 
 ##  About
