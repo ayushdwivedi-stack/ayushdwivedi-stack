@@ -46,13 +46,7 @@
 * Offline learning assistant
 * Image to explanation workflow
 
-###  Smart Helmet
-
-* IoT based crash detection system
-* GPS tracking and emergency alerts
-* Arduino + MPU6050 + GSM integration
-
----
+ 
 
 ## DSA & Problem Solving
 
