@@ -60,15 +60,6 @@
 
 ---
 
- 
-
-## Contribution Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ayushdwivedi-stack&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ## Connect
 
