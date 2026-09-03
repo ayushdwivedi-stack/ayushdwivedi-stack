@@ -4,7 +4,7 @@
 src="https://readme-typing-svg.demolab.com?font=Fraunces&weight=600&size=28&duration=2600&pause=1000&color=D3A25C&center=true&vCenter=true&width=700&height=45&lines=Ayush+Dwivedi;AI%2FML+%7C+Computer+Vision+%7C+Backend+Systems;Building+Systems+That+Solve+Real+Problems;B.Tech+ECE+%40+GCET"
 />
 
-<sub>B.Tech Electronics & Communication Engineering · Galgotias College of Engineering and Technology</sub>
+<sub>B.Tech · Galgotias College of Engineering and Technology</sub>
 
 <br/><br/>
 
