@@ -1,216 +1,132 @@
 <div align="center">
 
 <img 
-src="https://readme-typing-svg.demolab.com?font=Fraunces&weight=600&size=28&duration=2600&pause=1000&color=D3A25C&center=true&vCenter=true&width=700&height=45&lines=Ayush+Dwivedi;Developer+%26+Problem+Solver;DSA+%7C+AI%2FML+%7C+Web+Development;Building+Projects+That+Solve+Real+Problems"
+src="https://readme-typing-svg.demolab.com?font=Fraunces&weight=600&size=28&duration=2600&pause=1000&color=D3A25C&center=true&vCenter=true&width=700&height=45&lines=Ayush+Dwivedi;AI%2FML+%7C+Computer+Vision+%7C+Backend+Systems;Building+Systems+That+Solve+Real+Problems;B.Tech+ECE+%40+GCET"
 />
 
-<sub>B.Tech Student · Developer · Builder</sub>
-
-</div>
-
----
-
-# About
-
-> *A developer in progress — building systems, solving problems, and learning how things work beneath the surface.*
-
-I'm a B.Tech student interested in **software development, problem solving, and artificial intelligence**.
-
-I enjoy taking an idea, understanding the problem behind it, and turning it into something practical. Currently, I'm focused on strengthening my fundamentals while building projects that help me explore real-world applications of software and AI.
-
-### Currently working on
-
-* **Wafer Defect Detection System** — applying Deep Learning to semiconductor defect classification.
-* **AI Study Assistant** — building an offline-first assistant for interactive learning.
-* **Data Structures & Algorithms** — consistently improving problem-solving and algorithmic thinking.
-
-<br/>
-
-<div align="center">
-
-`BUILD` · `LEARN` · `ITERATE`
-
-</div>
-
----
-
-# Tech Stack
-
-<p align="center">
-
-<img 
-src="https://skillicons.dev/icons?i=cpp,python,java,react,javascript,tailwind,nodejs,git,github,pytorch,docker&theme=dark" 
-/>
-
-</p>
-
-<br/>
-
-<div align="center">
-
-`C++` · `Python` · `Java` · `React` · `JavaScript`
-
-`Node.js` · `Tailwind CSS` · `PyTorch` · `Docker`
-
-</div>
-
----
-
-# Selected Projects
-
-<br/>
-
-## 01 — Wafer Defect Detection System
-
-> *Using Deep Learning to identify and understand semiconductor wafer defects.*
-
-A computer vision–based system designed to classify wafer defects and provide more interpretable predictions.
-
-**Key areas:**
-
-* Deep Learning–based defect classification
-* Semiconductor wafer image analysis
-* Explainable AI using **Grad-CAM**
-* Confidence scoring for predictions
-* Interactive prediction dashboard
-* Full-stack web interface
-
-<br/>
-
----
-
-<br/>
-
-## 02 — AI Study Assistant
-
-> *An offline-first learning assistant designed to make studying more interactive.*
-
-A project exploring how local AI models and intelligent tools can help students understand questions and learn more effectively.
-
-**Key areas:**
-
-* OCR-powered question extraction
-* Image-to-explanation workflow
-* Local AI assistance
-* Offline learning capabilities
-* Intelligent study support
-
-<br/>
-
----
-
-# DSA & Problem Solving
-
-I enjoy the process of breaking complex problems into smaller pieces and finding efficient solutions.
-
-Currently focused on:
-
-* Strengthening **Data Structures & Algorithms**
-* Improving problem-solving consistency
-* Learning advanced data structures
-* Understanding algorithmic optimization
-
-<p align="center">
-
-<img 
-src="https://leetcard.jacoblin.cool/dubeykayush_2004?theme=dark&font=JetBrains%20Mono" 
-/>
-
-</p>
-
-<div align="center">
-
-`LOGIC` · `CONSISTENCY` · `OPTIMIZATION`
-
-</div>
-
----
-
-# Currently Exploring
-
-<div align="center">
-
-<br/>
-
-`AI Agents`   ·  
-`Deep Learning`   ·  
-`Backend Development`   ·  
-`System Design`
+<sub>B.Tech Electronics & Communication Engineering · Galgotias College of Engineering and Technology</sub>
 
 <br/><br/>
 
-</div>
-
----
-
-# Let's Connect
-
-> *Good ideas often begin with a conversation.*
-
-Whether it's about **technology, AI, interesting projects, problem solving, or building something useful**, I'm always open to connecting with curious people.
-
-<div align="center">
-
-<br/>
-
+<a href="https://portfolio-one-omega-a1lrn5tp33.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-View_My_Work-D3A25C?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 <a href="https://linkedin.com/in/ayush-dwivedi-2533b832a">
-
-**01 — LinkedIn** <sub>Professional journey & updates</sub>
-
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
-     
-
 <a href="mailto:ayushdwivedi8756326270@gmail.com">
-
-**02 — Email** <sub>Ideas, conversations & opportunities</sub>
-
+<img src="https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
-     
-
-<a href="https://github.com/ayushdwivedi-stack">
-
-**03 — GitHub** <sub>Projects, experiments & code</sub>
-
-</a>
-
-<br/><br/>
-
-`SAY HELLO` · `SHARE IDEAS` · `BUILD SOMETHING`
 
 </div>
->
 
 ---
 
+## About
+
+I'm an engineering student working across **AI/ML, computer vision, backend systems, and embedded technology**. My focus is on taking real problems — not toy datasets — and building systems that actually hold up: explainable models, measured latency, and interfaces people can use.
+
+My core technical anchor is a **semiconductor wafer defect detection system**, currently the subject of a patent application, which has shaped the direction of most of my subsequent project work and hackathon pitches.
+
 <div align="center">
 
-<img 
-src="https://capsule-render.vercel.app/api?type=rect&color=D3A25C&height=2&section=footer" 
-width="55%" 
-/>
+`BUILD` · `EXPLAIN` · `SHIP`
+
+</div>
+
+---
+
+## Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,python,java,react,javascript,tailwind,nodejs,fastapi,git,github,pytorch,docker&theme=dark" />
+</p>
+
+<div align="center">
+
+`C++` · `Python` · `Java` · `React` · `JavaScript` · `Node.js`
+
+`FastAPI` · `Tailwind CSS` · `PyTorch` · `Docker` · `ChromaDB`
+
+</div>
+
+---
+
+## Featured Work
+
+### 01 — Wafer Defect Detection System *(Patent-pending)*
+
+Deep learning system for semiconductor wafer defect classification, built with a focus on interpretability and deployability rather than raw accuracy alone.
+
+- ResNet18 classification pipeline with focal loss, trained on the **WM-811K** dataset across eight defect classes
+- **Grad-CAM** based explainability layered with geometric boundary validation and rule-based inference for more trustworthy predictions
+- ~**12ms CPU inference latency**, making it viable for real-time / edge deployment
+- Confidence scoring and an interactive prediction dashboard on a full-stack web interface
+
+---
+
+### 02 — AI Study Assistant
+
+A 12-module AI-powered study platform designed to make self-directed learning interactive rather than passive — spanning an AI Teacher, PDF engine, quiz engine, flashcards, voice AI, and a placement-prep module.
+
+- Built on **React/Vite** (frontend) and **FastAPI** (backend), with the **Anthropic API** and **ChromaDB** for retrieval
+- OCR-powered question extraction and an image-to-explanation workflow
+- Designed for offline-first, local AI assistance
+
+---
+
+### 03 — Personal Developer Portfolio
+
+An interactive personal portfolio showcasing my AI/ML, computer vision, and embedded systems work.
+
+- Built with **Vite + React**, **React Three Fiber**, **Framer Motion**, and **Tailwind CSS v4**
+- **[View it live →](https://portfolio-one-omega-a1lrn5tp33.vercel.app/)**
+
+---
+
+## DSA & Problem Solving
+
+I treat DSA as a standing practice, not a phase — breaking problems down, comparing approaches, and optimizing for both correctness and efficiency.
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/dubeykayush_2004?theme=dark&font=JetBrains%20Mono" />
+</p>
+
+---
+
+## Currently Exploring
+
+<div align="center">
+
+`AI Agents` · `Deep Learning` · `Backend Development` · `System Design`
 
 <br/><br/>
 
-### *Building with curiosity. Learning with consistency.*
+Preparing for **Smart India Hackathon 2026**, building on the explainable-AI and defect-detection work above.
+
+</div>
+
+---
+
+## Let's Connect
+
+Open to conversations on AI, computer vision, systems design, or interesting problems worth building for.
+
+<div align="center">
 
 <br/>
 
-<sub>
-
-DSA · AI/ML · Web Development
-
-</sub>
-
-</div>
-
+<a href="https://portfolio-one-omega-a1lrn5tp33.vercel.app/"><b>Portfolio</b></a> ·
+<a href="https://linkedin.com/in/ayush-dwivedi-2533b832a"><b>LinkedIn</b></a> ·
+<a href="mailto:ayushdwivedi8756326270@gmail.com"><b>Email</b></a> ·
+<a href="https://github.com/ayushdwivedi-stack"><b>GitHub</b></a>
 
 <br/><br/>
 
-<sub>
-DSA · AI/ML · Web Development
-</sub>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=D3A25C&height=2&section=footer" width="55%" />
+
+<br/><br/>
+
+<sub>Building with curiosity. Learning with consistency.</sub>
 
 </div>
-
