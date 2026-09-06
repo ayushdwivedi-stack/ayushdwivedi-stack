@@ -1,7 +1,7 @@
 <div align="center">
 
 <img 
-src="https://readme-typing-svg.demolab.com?font=Fraunces&weight=600&size=28&duration=2600&pause=1000&color=D3A25C&center=true&vCenter=true&width=700&height=45&lines=Ayush+Dwivedi;AI%2FML+%7C+Computer+Vision+%7C+Backend+Systems;Building+Systems+That+Solve+Real+Problems;B.Tech+ECE+%40+GCET"
+src="https://readme-typing-svg.demolab.com?font=Fraunces&weight=600&size=28&duration=2600&pause=1000&color=D3A25C&center=true&vCenter=true&width=700&height=45&lines=Ayush+Dwivedi;AI%2FML+%7C+Computer+Vision+%7C+Backend+Systems;Building+Systems+That+Solve+Real+Problems;B.Tech+Student+%40+GCET"
 />
 
 <sub>B.Tech · Galgotias College of Engineering and Technology</sub>
@@ -11,14 +11,18 @@ src="https://readme-typing-svg.demolab.com?font=Fraunces&weight=600&size=28&dura
 <a href="https://portfolio-one-omega-a1lrn5tp33.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-View_My_Work-D3A25C?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
+
 <a href="https://linkedin.com/in/ayush-dwivedi-2533b832a">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 <a href="mailto:ayushdwivedi8756326270@gmail.com">
 <img src="https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
+
+---
 
 ---
 
