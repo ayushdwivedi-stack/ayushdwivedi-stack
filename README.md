@@ -1,126 +1,204 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header&text=Ayush%20Dwivedi&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+</div>
 
-# Hey, I'm Ayush Dwivedi 👋
+<div align="center">
 
-### B.Tech Undergraduate @ Galgotias College of Engineering & Technology (2024–2028)
+### B.Tech Undergraduate · Galgotias College of Engineering & Technology · 2024 – 2028
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+(Node.js+%7C+React);AI+Agent+%26+Workflow+Automation+Builder;Autonomous+Systems+%7C+MCP+%7C+LLM+Tool-Calling;300%2B+LeetCode+%7C+C%2B%2B+%7C+SIH+2025+Finalist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%7C+Node.js+%7C+React;AI+Agent+%26+Workflow+Automation+Engineer;Deep+Learning+%7C+Computer+Vision+%7C+Python;300%2B+LeetCode+%7C+C%2B%2B+%7C+Open+Source+Contributor)](https://git.io/typing-svg)
 
-[![GitHub followers](https://img.shields.io/github/followers/ayushdwivedi-stack?style=social)](https://github.com/ayushdwivedi-stack)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ayushdwivedi-stack)
-[![Email](https://img.shields.io/badge/Email-ayushdwivedi8756326270%40gmail.com-red?style=flat&logo=gmail)](mailto:ayushdwivedi8756326270@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-Download%20PDF-green?style=flat&logo=adobeacrobatreader)](https://github.com/ayushdwivedi-stack/resume/raw/main/Ayush_Dwivedi_Resume.pdf)
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-ayushdwivedi--stack-181717?style=for-the-badge&logo=github)](https://github.com/ayushdwivedi-stack)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ayushdwivedi-stack)
+[![Email](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:ayushdwivedi8756326270@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-Download_PDF-2DA44E?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/ayushdwivedi-stack/resume/raw/main/Ayush_Dwivedi_Resume.pdf)
+
+![Profile Views](https://komarev.com/ghpvc/?username=ayushdwivedi-stack&color=58a6ff&style=flat-square&label=Profile+Views)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-```typescript
-const ayush = {
-  education: "B.Tech Undergraduate @ Galgotias College (2024–2028) | CGPA: 8.0",
-  focus: ["Full-Stack Development", "AI Agents", "Workflow Automation"],
-  currentlyBuilding: "Autonomous AI systems with n8n, MCP & LLM tool-calling",
-  achievements: ["SIH 2025 Finalist", "HackIndia Spark 4 Finalist", "300+ LeetCode Problems"],
-  openTo: "Remote internships & full-time roles globally 🌏"
-};
+I'm a **Full-Stack Developer** and **AI Systems Engineer** passionate about building scalable backends, autonomous AI agents, and intelligent automation pipelines. I focus on writing clean, production-grade code and love the intersection of software engineering and machine learning.
+
+- 🔭 Currently building **AI-powered automation systems** using MCP Protocol, n8n, and LLM tool-calling
+- 🌱 Deepening expertise in **distributed systems**, **real-time backends**, and **computer vision**
+- 💡 Interested in **US remote opportunities** — open to internships and full-time SDE roles
+- ⚡ Fun fact: I automate everything I do more than twice
+
+---
+
+## Tech Stack
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+**Backend**
+```
+Node.js · Express.js
+MongoDB · Redis
+WebSockets · REST APIs
+JWT · OAuth2
 ```
 
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Backend & APIs**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+</td>
+<td valign="top" width="33%">
 
 **AI & Automation**
+```
+Python · PyTorch · OpenCV
+n8n · LangChain · MCP Protocol
+LLM Tool-Calling · AI Agents
+Computer Vision · Deep Learning
+```
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+</td>
+<td valign="top" width="33%">
 
-**Languages & DSA**
+**Frontend & Languages**
+```
+React.js · Next.js
+JavaScript · TypeScript
+C++ · HTML5 · CSS3
+```
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**Databases & Caching**
+```
+MongoDB · Redis · Valkey
+MySQL · PostgreSQL
+```
+
+</td>
+<td valign="top">
 
 **DevOps & Tools**
+```
+Git · GitHub · Docker
+Linux · VS Code
+GitHub Actions
+```
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+</td>
+<td valign="top">
+
+**DSA & Competitive**
+```
+C++ · LeetCode (300+)
+Data Structures
+Algorithm Design
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔬 [Wafer Defect Detection](https://github.com/ayushdwivedi-stack/wafer-defect-detection)
+AI-powered semiconductor defect detection system using deep learning. Automatically identifies and classifies manufacturing defects for improved quality control in chip fabrication.
+
+**Stack:** `Python` `PyTorch` `OpenCV` `Deep Learning` `CNN`
+
+</td>
+<td width="50%" valign="top">
+
+### 🖥️ [Valkey Admin Dashboard](https://github.com/ayushdwivedi-stack/valkey-admin)
+Web-based administration tool for Valkey clusters and standalone instances. Provides an intuitive interface to monitor, manage, and interact with Valkey deployments in real time.
+
+**Stack:** `Node.js` `WebSockets` `Redis/Valkey` `Express.js`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ [Backend Project](https://github.com/ayushdwivedi-stack/Backend_project)
+Production-grade REST API backend with authentication, middleware architecture, MongoDB integration, and clean MVC patterns. Designed for scalability and maintainability.
+
+**Stack:** `Node.js` `Express.js` `MongoDB` `JWT` `REST API`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎌 [Kana Dojo](https://github.com/ayushdwivedi-stack/kana-dojo)
+Minimalist language-learning platform for Japanese Hiragana & Katakana, inspired by Duolingo and Monkeytype. Clean UI with spaced-repetition learning logic.
+
+**Stack:** `Next.js` `TypeScript` `React` `Vercel`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 [DSA Practice (C++)](https://github.com/ayushdwivedi-stack/dsa_practice)
+Structured repository of 300+ solved LeetCode and competitive programming problems in C++. Covers arrays, trees, graphs, DP, greedy, and system design patterns.
+
+**Stack:** `C++` `Algorithms` `Data Structures` `LeetCode`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 [Portfolio Website](https://github.com/ayushdwivedi-stack/Portfolio)
+Personal developer portfolio showcasing projects, skills, and work experience. Built with JavaScript for fast loading and clean presentation.
+
+**Stack:** `JavaScript` `HTML5` `CSS3`
+
+</td>
+</tr>
+</table>
+
+---
+
+## GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ayushdwivedi-stack&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushdwivedi-stack&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushdwivedi-stack&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" height="170"/>
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## Contribution Graph
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ayushdwivedi-stack&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushdwivedi-stack&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushdwivedi-stack&theme=tokyonight&hide_border=true" height="165"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushdwivedi-stack&theme=github-compact&hide_border=true&area=true&color=58a6ff&line=58a6ff&point=ffffff" width="95%"/>
 </div>
 
 ---
 
-## 🏆 Achievements
+## Open to Opportunities
 
-| 🏅 Achievement | 📝 Details |
-|---|---|
-| 🥇 **SIH 2025 Finalist** | Smart India Hackathon — National Level |
-| 🥈 **HackIndia Spark 4 Finalist** | National Hackathon |
-| 💻 **300+ LeetCode Problems** | C++, DSA, Competitive Programming |
-| 🤖 **AI Agent Builder** | n8n, MCP Protocol, LLM Tool-Calling |
+I'm actively seeking **remote internships** and **full-time SDE roles** globally (US, EU, and India-based).
 
----
+If you're building something interesting in **backend systems**, **AI automation**, or **computer vision** — let's talk.
 
-## 📌 Featured Projects
-
-### 🔧 Autonomous AI Agent System
-> Built with n8n + MCP + LLM tool-calling. Automates complex multi-step workflows including email parsing, GitHub operations, and API orchestration.
-
-### 🌐 Full-Stack Node.js APIs
-> Express.js backends with MongoDB, Redis caching, WebSocket real-time features, and REST API design patterns.
-
-### 🧠 Gmail Automation MCP Server
-> Custom MCP server integrating Gmail OAuth2 directly into AI assistants — reads, writes, filters, and labels emails programmatically.
-
----
-
-## 📫 Let's Connect!
-
-I'm **actively looking for remote internships & full-time SDE roles** (open to US, EU, and India-based positions).
-
-📧 **Email:** ayushdwivedi8756326270@gmail.com
-🔗 **LinkedIn:** linkedin.com/in/ayushdwivedi-stack
-📄 **Resume:** [Download PDF](https://github.com/ayushdwivedi-stack/resume/raw/main/Ayush_Dwivedi_Resume.pdf)
+| 📧 Email | 🔗 LinkedIn | 📄 Resume |
+|---|---|---|
+| ayushdwivedi8756326270@gmail.com | [linkedin.com/in/ayushdwivedi-stack](https://linkedin.com/in/ayushdwivedi-stack) | [Download PDF](https://github.com/ayushdwivedi-stack/resume/raw/main/Ayush_Dwivedi_Resume.pdf) |
 
 ---
 
 <div align="center">
-
-*"Build things that matter. Automate everything else."*
-
-![Profile Views](https://komarev.com/ghpvc/?username=ayushdwivedi-stack&color=blueviolet&style=flat)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=80&section=footer" width="100%"/>
 </div>
