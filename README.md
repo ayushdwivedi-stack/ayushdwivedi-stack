@@ -1,136 +1,126 @@
 <div align="center">
 
-<img 
-src="https://readme-typing-svg.demolab.com?font=Fraunces&weight=600&size=28&duration=2600&pause=1000&color=D3A25C&center=true&vCenter=true&width=700&height=45&lines=Ayush+Dwivedi;AI%2FML+%7C+Computer+Vision+%7C+Backend+Systems;Building+Systems+That+Solve+Real+Problems;B.Tech+Student+%40+GCET"
-/>
+# Hey, I'm Ayush Dwivedi 👋
 
-<sub>B.Tech · Galgotias College of Engineering and Technology</sub>
+### B.Tech Undergraduate @ Galgotias College of Engineering & Technology (2024–2028)
 
-<br/><br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+(Node.js+%7C+React);AI+Agent+%26+Workflow+Automation+Builder;Autonomous+Systems+%7C+MCP+%7C+LLM+Tool-Calling;300%2B+LeetCode+%7C+C%2B%2B+%7C+SIH+2025+Finalist)](https://git.io/typing-svg)
 
-<a href="https://portfolio-one-omega-a1lrn5tp33.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-View_My_Work-D3A25C?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-<a href="https://linkedin.com/in/ayush-dwivedi-2533b832a">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:ayushdwivedi8756326270@gmail.com">
-<img src="https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+[![GitHub followers](https://img.shields.io/github/followers/ayushdwivedi-stack?style=social)](https://github.com/ayushdwivedi-stack)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ayushdwivedi-stack)
+[![Email](https://img.shields.io/badge/Email-ayushdwivedi8756326270%40gmail.com-red?style=flat&logo=gmail)](mailto:ayushdwivedi8756326270@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-Download%20PDF-green?style=flat&logo=adobeacrobatreader)](https://github.com/ayushdwivedi-stack/resume/raw/main/Ayush_Dwivedi_Resume.pdf)
 
 </div>
 
 ---
 
+## 🚀 About Me
+
+```typescript
+const ayush = {
+  education: "B.Tech Undergraduate @ Galgotias College (2024–2028) | CGPA: 8.0",
+  focus: ["Full-Stack Development", "AI Agents", "Workflow Automation"],
+  currentlyBuilding: "Autonomous AI systems with n8n, MCP & LLM tool-calling",
+  achievements: ["SIH 2025 Finalist", "HackIndia Spark 4 Finalist", "300+ LeetCode Problems"],
+  openTo: "Remote internships & full-time roles globally 🌏"
+};
+```
+
 ---
 
-## About
-
-I'm an engineering student working across **AI/ML, computer vision, backend systems, and embedded technology**. My focus is on taking real problems — not toy datasets — and building systems that actually hold up: explainable models, measured latency, and interfaces people can use.
-
-My core technical anchor is a **semiconductor wafer defect detection system**, currently the subject of a patent application, which has shaped the direction of most of my subsequent project work and hackathon pitches.
+## 🛠️ Tech Stack
 
 <div align="center">
 
-`BUILD` · `EXPLAIN` · `SHIP`
+**Backend & APIs**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**AI & Automation**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+**Languages & DSA**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
+
+**DevOps & Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
 ---
 
-## Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,python,java,react,javascript,tailwind,nodejs,fastapi,git,github,pytorch,docker&theme=dark" />
-</p>
+## 📊 GitHub Stats
 
 <div align="center">
 
-`C++` · `Python` · `Java` · `React` · `JavaScript` · `Node.js`
+<img src="https://github-readme-stats.vercel.app/api?username=ayushdwivedi-stack&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushdwivedi-stack&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
-`FastAPI` · `Tailwind CSS` · `PyTorch` · `Docker` · `ChromaDB`
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushdwivedi-stack&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
 
 ---
 
-## Featured Work
+## 🏆 Achievements
 
-### 01 — Wafer Defect Detection System *(Patent-pending)*
-
-Deep learning system for semiconductor wafer defect classification, built with a focus on interpretability and deployability rather than raw accuracy alone.
-
-- ResNet18 classification pipeline with focal loss, trained on the **WM-811K** dataset across eight defect classes
-- **Grad-CAM** based explainability layered with geometric boundary validation and rule-based inference for more trustworthy predictions
-- ~**12ms CPU inference latency**, making it viable for real-time / edge deployment
-- Confidence scoring and an interactive prediction dashboard on a full-stack web interface
+| 🏅 Achievement | 📝 Details |
+|---|---|
+| 🥇 **SIH 2025 Finalist** | Smart India Hackathon — National Level |
+| 🥈 **HackIndia Spark 4 Finalist** | National Hackathon |
+| 💻 **300+ LeetCode Problems** | C++, DSA, Competitive Programming |
+| 🤖 **AI Agent Builder** | n8n, MCP Protocol, LLM Tool-Calling |
 
 ---
 
-### 02 — AI Study Assistant
+## 📌 Featured Projects
 
-A 12-module AI-powered study platform designed to make self-directed learning interactive rather than passive — spanning an AI Teacher, PDF engine, quiz engine, flashcards, voice AI, and a placement-prep module.
+### 🔧 Autonomous AI Agent System
+> Built with n8n + MCP + LLM tool-calling. Automates complex multi-step workflows including email parsing, GitHub operations, and API orchestration.
 
-- Built on **React/Vite** (frontend) and **FastAPI** (backend), with the **Anthropic API** and **ChromaDB** for retrieval
-- OCR-powered question extraction and an image-to-explanation workflow
-- Designed for offline-first, local AI assistance
+### 🌐 Full-Stack Node.js APIs
+> Express.js backends with MongoDB, Redis caching, WebSocket real-time features, and REST API design patterns.
 
----
-
-### 03 — Personal Developer Portfolio
-
-An interactive personal portfolio showcasing my AI/ML, computer vision, and embedded systems work.
-
-- Built with **Vite + React**, **React Three Fiber**, **Framer Motion**, and **Tailwind CSS v4**
-- **[View it live →](https://portfolio-one-omega-a1lrn5tp33.vercel.app/)**
+### 🧠 Gmail Automation MCP Server
+> Custom MCP server integrating Gmail OAuth2 directly into AI assistants — reads, writes, filters, and labels emails programmatically.
 
 ---
 
-## DSA & Problem Solving
+## 📫 Let's Connect!
 
-I treat DSA as a standing practice, not a phase — breaking problems down, comparing approaches, and optimizing for both correctness and efficiency.
+I'm **actively looking for remote internships & full-time SDE roles** (open to US, EU, and India-based positions).
 
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/dubeykayush_2004?theme=dark&font=JetBrains%20Mono" />
-</p>
+📧 **Email:** ayushdwivedi8756326270@gmail.com
+🔗 **LinkedIn:** linkedin.com/in/ayushdwivedi-stack
+📄 **Resume:** [Download PDF](https://github.com/ayushdwivedi-stack/resume/raw/main/Ayush_Dwivedi_Resume.pdf)
 
 ---
-
-## Currently Exploring
 
 <div align="center">
 
-`AI Agents` · `Deep Learning` · `Backend Development` · `System Design`
+*"Build things that matter. Automate everything else."*
 
-<br/><br/>
-
-Preparing for **Smart India Hackathon 2026**, building on the explainable-AI and defect-detection work above.
-
-</div>
-
----
-
-## Let's Connect
-
-Open to conversations on AI, computer vision, systems design, or interesting problems worth building for.
-
-<div align="center">
-
-<br/>
-
-<a href="https://portfolio-one-omega-a1lrn5tp33.vercel.app/"><b>Portfolio</b></a> ·
-<a href="https://linkedin.com/in/ayush-dwivedi-2533b832a"><b>LinkedIn</b></a> ·
-<a href="mailto:ayushdwivedi8756326270@gmail.com"><b>Email</b></a> ·
-<a href="https://github.com/ayushdwivedi-stack"><b>GitHub</b></a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=D3A25C&height=2&section=footer" width="55%" />
-
-<br/><br/>
-
-<sub>Building with curiosity. Learning with consistency.</sub>
+![Profile Views](https://komarev.com/ghpvc/?username=ayushdwivedi-stack&color=blueviolet&style=flat)
 
 </div>
